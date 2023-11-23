@@ -24,7 +24,7 @@ Hey Dev Community! 👋 Excited to showcase my latest project – a Netflix clon
 Feel free to fork the repository and contribute to make it even better. Open to suggestions and collaboration.
 
 ## Live Demo 🚀
-Check out the live demo 
+Check out the live demo https://lazy18.github.io/Netflix-Clone/
 
 
 
